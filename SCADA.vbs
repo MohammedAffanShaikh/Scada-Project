@@ -1,3 +1,16 @@
+On Show:
+
+SW1=0;
+SW22=0;
+BOXH=0;
+HOOKHI=0;
+BOXV=0;
+K=0;
+BOX1=0;
+VH=0;
+
+Showing:
+  
 IF SW1==1 THEN 
 
 IF BOXH<20 THEN BOXH=BOXH+1;ENDIF;
