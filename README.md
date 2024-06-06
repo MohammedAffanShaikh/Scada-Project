@@ -1,5 +1,10 @@
 # Scada-Project
 
+- The SCADA.vbs File Contains Window Scripts For Crane Simulator Project
+
+
+
+
 I successfully completed a 6-week internship at Marine Electrical and Refrigeration Engineering Work (MEREW), focusing on Supervisory Control and Data Acquisition (SCADA) systems. During this time, I gained hands-on experience in monitoring and controlling industrial processes, enhancing my skills in system integration, troubleshooting, and data analysis within the marine electrical and refrigeration sectors. Additionally, I learned various InTouch SCADA properties, including:
 
 - Animation link
